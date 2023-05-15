@@ -21,7 +21,6 @@
 
 ![](https://img.shields.io/badge/-Python--3.11-blue)
 ![](https://img.shields.io/badge/surprise-blue)
-![](https://img.shields.io/badge/matplotlib-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 
