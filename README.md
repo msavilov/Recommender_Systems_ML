@@ -26,14 +26,14 @@
 
 ## Проекты
 
-  [1. RecSys](#recsys)
+  [1. Content_base](#content_base)
   
   [2. Collaborative_filtering](#collaborative_filtering)
   
-  [3. Hybrid_system](#hybrid_system)
+  [3. Hybrid_systems](#hybrid_systems)
   
 
-### RecSys
+### Content_base
   ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
   
   Построение рекомендации на основе датасета MovieLens, используя TF-IDF и средних оценок пользователя и фильма. Целевой признак - оценка фильма
@@ -47,7 +47,7 @@
 
   [Решение]
 
-### Hybrid_system
+### Hybrid_systems
   ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
   
   Описание
