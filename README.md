@@ -16,7 +16,7 @@
 ### Описание
 
 Учебные проекты курса "Рекомендательные системы" профессии Data Science от Нетология.
-Используемый dataset [MovieLens](https://grouplens.org/datasets/movielens/)
+Используемый dataset [MovieLens](https://grouplens.org/datasets/movielens/latest/)
 
 ### Технологии
 
