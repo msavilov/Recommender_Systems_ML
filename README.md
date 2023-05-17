@@ -40,12 +40,12 @@
   
   Построение рекомендации используя TF-IDF и средних оценок пользователя и фильма. Целевой признак - оценка фильма
 
-  [Решение]
+  [Решение](https://github.com/msavilov/Recommender_Systems_ML/blob/main/1_Content_base/content_base.ipynb)
 
 ### Collaborative_filtering
   ![](https://img.shields.io/badge/Project%20status%20-In%20progress-green)
   
-  Описание
+  Применение пакета SURPRISE для построения рекомендаций
 
   [Решение]
 
