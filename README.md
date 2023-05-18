@@ -53,6 +53,6 @@
   
   Построение гибридных рекомендательных систем для рекомендаций фильмов пользователям. 
 
-  [Решение]
+  [Решение](https://github.com/msavilov/Recommender_Systems_ML/blob/main/3_Hybrid_system/hybrid_system.ipynb)
  
 
