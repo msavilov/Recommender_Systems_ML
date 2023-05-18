@@ -44,7 +44,7 @@
 
 ### Collaborative_filtering
   
-  Применение пакета Surprise для построения рекомендаций.
+  Применение пакета Surprise для построения рекомендаций фильмов пользователю.
 
   [Решение](https://github.com/msavilov/Recommender_Systems_ML/blob/main/2_Collaborative_filtering/collaborative_filtering.ipynb)
 
